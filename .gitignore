@@ -1,0 +1,4 @@
+# fichiers non envoyés sur git
+config.php
+# vendor contient les librairies externes en PHP
+/vendor
