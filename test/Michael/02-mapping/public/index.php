@@ -50,7 +50,7 @@ $exemple3 = new ExempleMapping([
     "exemple_number" => 21,
     "exemple_date" => "Miam",
     "exemple_boolean" => false,
-    "exemple_float" => -82.3465,
+    "exemple_float" => -82.3465999,
     "je_suis_un_champ_inexistant" => "je suis un champ inexistant",
 ]);
 
